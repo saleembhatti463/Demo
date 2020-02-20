@@ -2,3 +2,5 @@ pak mean Pakistan
 hello
 Hi
 oyhoy
+super
+power
